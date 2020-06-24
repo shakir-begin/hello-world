@@ -1,2 +1,5 @@
 # hello-world
-just begin
+
+Hi Humans!
+
+hi am shakir.
